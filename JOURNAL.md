@@ -5,8 +5,9 @@ created_at: "2025-05-24"
 # May 24th: Started researching how to make a counter.
 I looked online for what parts I needed to put in my design and how to put them together, and then started putting them together.
 
-![Screenshot 2025-05-24 212530](https://github.com/user-attachments/assets/d19ac83a-5a0d-4baa-bd1b-3d4b1efd1612)
+![Screenshot 2025-05-24 212713](https://github.com/user-attachments/assets/bea6e012-b8b9-4263-9915-2085a7e1dedf)
 
 
 
-**Total time spent: 30 min**
+
+**Total time spent: 35 min**
