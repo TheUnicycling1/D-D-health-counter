@@ -17,4 +17,4 @@ Later in the day, I decided to design the PCB.
 
 
 
-Total time spent: 1 hour
+**Total time spent: 1 hour**
