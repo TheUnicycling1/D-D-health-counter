@@ -1,8 +1,8 @@
 title: "D&D Life Counter"
 author: "The_Unicycling_1"
 description: "My project is a digital counter for when I play card and board games."
-created_at: "2025-05-24"
-Time spent 1 hour
+created at: "2025-05-24"
+Time spent: 1 hour
 # May 24th: Started researching how to make a counter.
 I looked online for what parts I needed to put in my design and how to put them together, and then put them together.
 Later in the day, I decided to design the PCB.
