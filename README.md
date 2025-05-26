@@ -4,3 +4,8 @@ BOM:
 4 TS-1089B-B3D2-$0.1362 (LCSC)
 1 XIAO RP2040 (Pre-Soldered)-$4.99 (Seeed Studio)
 Total (Pre-Tax)-$12.13
+
+
+
+
+[D&D-Life-Counter ZIP.zip](https://github.com/user-attachments/files/20433336/D.D-Life-Counter.ZIP.zip)
