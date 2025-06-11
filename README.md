@@ -1,9 +1,8 @@
-Item,Quantity,Price,Source
-Custom Designed PCB,1 Order, $4.00,JLCPCB
-HS HS96L02WZ03,1,$3.29,LCSC
-TS-1089B-B3D2,4,,$0.1362 per unit,
-LCSC XIAO RP2040 (Pre-Soldered),1,$4.99,Seeed Studio
-Total (Pre-Tax),,,$12.13,
+[BOM_D-D-Life-Counter_2025-06-11.csv](https://github.com/user-attachments/files/20697773/BOM_D-D-Life-Counter_2025-06-11.csv)BOM: [UplID,Name,Quantity,Manufacturer Part,Manufacturer,Price
+1,HS24S010B,1,HS24S010B,HS(??),5.594
+2,Seeed XIAO RP2040 ALL PINS,1,102010328,Seeedstudio,3.9
+3,MPS21-WWBCG-R,4,MPS21-WWBCG-R,Legion(??),0.43
+oading BOM_D-D-Life-Counter_2025-06-11.csv…]()
 
 
 
