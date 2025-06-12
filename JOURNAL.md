@@ -32,8 +32,8 @@ I found a new screen that was bigger and decided to use it, and I finished desig
 
 
 # June 11: I redesigned the board and started designing a case.
-Time spent: 2 hours
-My project was rejected, and even though I didn't need to redesign the board, I decided to make some changes.
+Time spent: 4 hours
+My project was rejected, and even though I didn't need to redesign the board, I decided to make some changes, such as using more comfortable buttons.
 
 ![PCB-V2 Schematic](https://github.com/user-attachments/assets/11d3d51e-bc95-4454-9661-f74ee2f70373)
 
