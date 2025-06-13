@@ -48,7 +48,7 @@ My project was rejected, and even though I didn't need to redesign the board, I 
 
 
 # June 12: I realized that I couldn't use the buttons I chose.
-Time spent: 3 hours
+Time spent: 2 hours
 I realized that the buttons I chose were latching toggle buttons, so I changed them to Cherry MX key switches.
 
 ![Screenshot_12-6-2025_21373_easyeda com](https://github.com/user-attachments/assets/99721616-24f0-4c94-a9bc-c19d4ce4731b)
