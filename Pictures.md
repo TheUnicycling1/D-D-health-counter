@@ -3,5 +3,5 @@
 ![Screenshot 2025-05-24 212530](https://github.com/user-attachments/assets/eeca165f-7a73-4635-bccc-635a8e9c1056)
 ![Screenshot 2025-05-24 212713](https://github.com/user-attachments/assets/2c9ce93c-bb14-4e2d-920b-8c9c6b1bc742)
 ![Screenshot 2025-05-24 215419](https://github.com/user-attachments/assets/1ca22f8c-a9ac-46ac-982d-f5dac3684a5d)
-![Screenshot_12-6-2025_21373_easyeda com](https://github.com/user-attachments/assets/e6276065-5b1d-4f6a-964e-fd1623addb37)
-![Screenshot_12-6-2025_213724_easyeda com](https://github.com/user-attachments/assets/f48f09a5-6120-48f5-81fa-b0802cf1e9fd)
+![Screenshot_12-6-2025_22642_easyeda com](https://github.com/user-attachments/assets/a6229c85-8d50-47c8-a35a-477003f7a333)
+![Screenshot_12-6-2025_22217_easyeda com](https://github.com/user-attachments/assets/932a9321-b412-4ef0-bf8b-6599fa671acd)
