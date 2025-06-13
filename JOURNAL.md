@@ -31,9 +31,9 @@ I found a new screen that was bigger and decided to use it, and I finished desig
 
 
 
-# June 11: I redesigned the board and started designing a case.
+# June 11: I redesigned the board.
 Time spent: 4 hours
-My project was rejected, and even though I didn't need to redesign the board, I decided to make some changes, such as using more comfortable buttons.
+My project was rejected, and even though I didn't need to redesign the board, I decided to make some changes, such as using more comfortable buttons and a larger screen.
 
 ![PCB-V2 Schematic](https://github.com/user-attachments/assets/11d3d51e-bc95-4454-9661-f74ee2f70373)
 
@@ -41,3 +41,20 @@ My project was rejected, and even though I didn't need to redesign the board, I 
 
 
 ![PCB-V2](https://github.com/user-attachments/assets/44efb6f9-5873-4b88-bb82-9bf8c2535c8e)
+
+
+
+
+
+
+# June 12: I realized that I couldn't use the buttons I chose.
+Time spent: 3 hours
+I realized that the buttons I chose were latching toggle buttons, so I changed them to Cherry MX key switches.
+
+![Screenshot_12-6-2025_21373_easyeda com](https://github.com/user-attachments/assets/99721616-24f0-4c94-a9bc-c19d4ce4731b)
+
+
+
+
+
+![Screenshot_12-6-2025_213724_easyeda com](https://github.com/user-attachments/assets/c116034d-6d99-4002-9e40-b4530178a2ed)
