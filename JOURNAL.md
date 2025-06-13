@@ -2,7 +2,7 @@ title: "D&D Life Counter"
 author: "The_Unicycling_1"
 description: "My project is a digital counter for when I play card and board games."
 Created at: "2025-05-24"
-Time spent: 2 hours
+Time spent: 8 hours
 
 
 # May 24th: Started researching how to make a counter.
