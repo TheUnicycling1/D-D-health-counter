@@ -51,10 +51,10 @@ My project was rejected, and even though I didn't need to redesign the board, I 
 Time spent: 2 hours
 I realized that the buttons I chose were latching toggle buttons, so I changed them to Cherry MX key switches.
 
-![Screenshot_12-6-2025_21373_easyeda com](https://github.com/user-attachments/assets/99721616-24f0-4c94-a9bc-c19d4ce4731b)
+![Screenshot_12-6-2025_22217_easyeda com](https://github.com/user-attachments/assets/ebc8ed21-16cf-460a-a7f8-e9ff007dec40)
 
 
 
 
 
-![Screenshot_12-6-2025_213724_easyeda com](https://github.com/user-attachments/assets/c116034d-6d99-4002-9e40-b4530178a2ed)
+![Screenshot_12-6-2025_22642_easyeda com](https://github.com/user-attachments/assets/3f209c0e-a686-4fb2-97e0-c96dcdaee025)
