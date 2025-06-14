@@ -5,3 +5,5 @@
 ![Screenshot 2025-05-24 215419](https://github.com/user-attachments/assets/1ca22f8c-a9ac-46ac-982d-f5dac3684a5d)
 ![Screenshot_12-6-2025_22642_easyeda com](https://github.com/user-attachments/assets/a6229c85-8d50-47c8-a35a-477003f7a333)
 ![Screenshot_12-6-2025_22217_easyeda com](https://github.com/user-attachments/assets/932a9321-b412-4ef0-bf8b-6599fa671acd)
+![Screenshot_14-6-2025_141247_cad onshape com](https://github.com/user-attachments/assets/07c5de02-520d-460f-bf0d-c6320653a7e1)
+![Screenshot_14-6-2025_141426_easyeda com](https://github.com/user-attachments/assets/1abbd9d7-bcc5-4b50-8a23-22bc00c86cc5)
