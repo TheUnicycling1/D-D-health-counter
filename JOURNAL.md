@@ -2,7 +2,7 @@ title: "D&D Life Counter"
 author: "The_Unicycling_1"
 description: "My project is a digital counter for when I play card and board games."
 Created at: "2025-05-24"
-Time spent: 8 hours
+Time spent: 9 hours
 
 
 # May 24th: Started researching how to make a counter.
@@ -58,3 +58,14 @@ I realized that the buttons I chose were latching toggle buttons, so I changed t
 
 
 ![Screenshot_12-6-2025_22642_easyeda com](https://github.com/user-attachments/assets/3f209c0e-a686-4fb2-97e0-c96dcdaee025)
+
+
+
+
+
+
+# June 13: I designed a case for the PCB.
+Time spent: 1 hour
+I designed a bottom case and a top case.
+
+![Screenshot_13-6-2025_201430_cad onshape com](https://github.com/user-attachments/assets/c3791fb4-dfa0-46c1-9e5c-7b213fa90a37)
