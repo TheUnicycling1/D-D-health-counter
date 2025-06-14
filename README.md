@@ -1,8 +1,9 @@
 Name: D&D Health Counter
 Description: A small device made so that you can play games without having to keep track of numbers.
 
-![Screenshot_13-6-2025_201430_cad onshape com](https://github.com/user-attachments/assets/934585d4-8c0f-40ce-9e56-d91cdd0d5dc3)
-![Screenshot_12-6-2025_22642_easyeda com](https://github.com/user-attachments/assets/b14c0740-12d1-49c8-a9db-704b43a7fc64)
+![Screenshot_14-6-2025_141247_cad onshape com](https://github.com/user-attachments/assets/36ed547f-e8c9-4bac-883b-fffc4a8d4da0)
+![Screenshot_14-6-2025_141426_easyeda com](https://github.com/user-attachments/assets/de1a7c34-3520-4e29-81c0-12f05ce629c1)
+
 
 | Name                     | Quantity | Manufacturer | Supplier    | Price |
 |--------------------------|----------|--------------|-------------|-------|
