@@ -3,6 +3,7 @@ Description: A small device made so that you can play games without having to ke
 
 ![Screenshot_14-6-2025_141247_cad onshape com](https://github.com/user-attachments/assets/36ed547f-e8c9-4bac-883b-fffc4a8d4da0)
 ![Screenshot_14-6-2025_141426_easyeda com](https://github.com/user-attachments/assets/de1a7c34-3520-4e29-81c0-12f05ce629c1)
+![Screenshot_14-6-2025_142347_cad onshape com](https://github.com/user-attachments/assets/c767158b-74ad-49f6-8a0b-6b77770e17a4)
 
 
 | Name                     | Quantity | Manufacturer | Supplier    | Price |
